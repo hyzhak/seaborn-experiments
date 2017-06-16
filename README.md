@@ -3,12 +3,12 @@ Experiments with Seaborn. Based on official tutorial http://seaborn.pydata.org/t
 
 ## Experiments
 ### Style
-- [https://github.com/hyzhak/seaborn-experiments/blob/master/style-colors.ipynb](Style And Colors)
+- [Style And Colors](https://github.com/hyzhak/seaborn-experiments/blob/master/style-colors.ipynb)
 
 ### Data Types
-- [https://github.com/hyzhak/seaborn-experiments/blob/master/distribution-of-dataset.ipynb](Distribution of Dataset)
-- [https://github.com/hyzhak/seaborn-experiments/blob/master/linear-relationships.ipynb](Linear relationships)
-- [https://github.com/hyzhak/seaborn-experiments/blob/master/categorical-data.ipynb](Categorical Data)
+- [Distribution of Dataset](https://github.com/hyzhak/seaborn-experiments/blob/master/distribution-of-dataset.ipynb)
+- [Linear relationships](https://github.com/hyzhak/seaborn-experiments/blob/master/linear-relationships.ipynb)
+- [Categorical Data](https://github.com/hyzhak/seaborn-experiments/blob/master/categorical-data.ipynb)
 
 ### Grid
-- [https://github.com/hyzhak/seaborn-experiments/blob/master/grid.ipynb](Data-aware grid)
+- [Data-aware grid](https://github.com/hyzhak/seaborn-experiments/blob/master/grid.ipynb)
